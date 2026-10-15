@@ -25,8 +25,7 @@
 ![Phụ đề tiếng Việt hiện trên trailer GTA 6](anh/demo-gta6.jpg)
 <p align="center"><sub>Phụ đề tiếng Việt hiện trực tiếp trên livestream trailer GTA 6 (bản chạy thử).</sub></p>
 
-> [!NOTE]
-> **Phần mềm đang chạy thử.** Video demo đầy đủ sẽ lên sớm. Gần ngày GTA 6 ra mắt (19/11/2026), mã nguồn và bản cài sẽ được đăng tại đây để anh em tải về dùng thử. Bấm **Watch** hoặc **Star** ở góc trên để không lỡ bản tải.
+> 🚧 **Phần mềm đang chạy thử.** Video demo đầy đủ sẽ lên sớm. Gần ngày GTA 6 ra mắt (19/11/2026), mã nguồn và bản cài sẽ được đăng tại đây để anh em tải về dùng thử. Bấm **Watch** hoặc **Star** ở góc trên để không lỡ bản tải.
 
 ## Vì sao có phần mềm này
 
