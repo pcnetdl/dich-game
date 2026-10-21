@@ -25,7 +25,9 @@
 ![Phụ đề tiếng Việt hiện trên trailer GTA 6](anh/demo-gta6.jpg)
 <p align="center"><sub>Phụ đề tiếng Việt hiện trực tiếp trên livestream trailer GTA 6 (bản chạy thử).</sub></p>
 
-> 🚧 **Phần mềm đang chạy thử.** Video demo đầy đủ sẽ lên sớm. Gần ngày GTA 6 ra mắt (19/11/2026), mã nguồn và bản cài sẽ được đăng tại đây để anh em tải về dùng thử. Bấm **Watch** hoặc **Star** ở góc trên để không lỡ bản tải.
+> 🚧 **Phần mềm đang chạy thử, chưa phát hành.** Link tải nào lúc này cũng là giả. Có bản cài là mình đăng tại đây và trên [pcnetdl.com/dich-game](https://pcnetdl.com/dich-game/). Bấm **Watch** hoặc **Star** ở góc trên để không lỡ.
+>
+> **Bản chính miễn phí, ai bán là lừa.**
 
 ## Vì sao có phần mềm này
 
@@ -41,13 +43,13 @@ Muốn bản dịch nhanh, chuẩn và chỉn chu thì một mình mình làm kh
 
 <img src="anh/app.png" width="380" align="right" alt="Giao diện PCNET Dịch Game">
 
-- **Dịch thoại ngay lúc chơi:** câu tiếng Việt hiện đè đúng chỗ phụ đề tiếng Anh.
-- **Dịch cả màn hình** (menu, nhiệm vụ, hướng dẫn) chỉ bằng một phím tắt **Ctrl+Alt+D**.
-- **Từ điển riêng cho từng game:** tên nhân vật, địa danh, thuật ngữ dịch thống nhất; xưng hô đúng vai (cha – con, chị – em…).
-- **Sổ dịch:** câu nào đã dịch thì lần sau gặp lại hiện ngay, không phải chờ dịch lại.
-- **Chia sẻ bản dịch:** câu bạn đã dịch giúp người chơi sau có tiếng Việt nhanh hơn, chuẩn hơn.
-- **Hiện chữ qua OBS**, tiện cho anh em livestream.
+- **Phụ đề Việt ngay lúc chơi:** chữ Việt hiện đúng chỗ phụ đề gốc.
+- **Dịch cả màn hình bằng một phím:** menu, nhiệm vụ, hướng dẫn, bấm **Ctrl+Alt+D** là ra.
+- **Xưng hô đúng vai:** cha – con, chị – em không lẫn lộn. Tên nhân vật, địa danh dịch thống nhất.
+- **Câu gặp rồi hiện ngay:** lần sau gặp lại không phải chờ.
+- **Hiện phụ đề cho người xem live:** gắn thẳng vào OBS.
 - **Chỉnh vùng phụ đề, cỡ chữ** cho hợp từng game.
+- **Thấy câu sai, bấm một nút là báo.**
 
 <br clear="right">
 
@@ -62,9 +64,9 @@ Bản dịch bây giờ chưa hoàn hảo, nhưng càng nhiều anh em dùng th�
 
 ## Lộ trình
 
-- [x] Chạy thử trên livestream: trailer GTA 6 và video gameplay Ghost of Yōtei (PS5)
+- [x] Chạy thử trên livestream: trailer GTA 6 và game Ghost of Yōtei (PS5)
 - [ ] Video demo đầy đủ
-- [ ] Đăng mã nguồn và bản cài, gần ngày GTA 6 ra mắt (19/11/2026)
+- [ ] Đăng mã nguồn và bản cài (chưa chốt ngày)
 - [ ] Dịch game online trên PC
 
 ## Theo dõi và ủng hộ
